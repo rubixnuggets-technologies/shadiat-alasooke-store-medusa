@@ -48,7 +48,7 @@
     "medusa-plugin-smtp": "^1.2.0",
     "medusa-plugin-strapi": "^1.0.9-dev",
     "prism-react-renderer": "^2.0.4",
-    "typeorm": "0.3.16"
+    "typeorm": "0.3.20"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.3",
